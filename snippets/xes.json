@@ -1,0 +1,57 @@
+{
+  "Business: xes-sharePoster": {
+    "prefix": "xessharePoster",
+    "body": [
+     "<xes-sharePoster",
+        "\t :posterUrl=\"\"",
+        "\t :msg=\"\"",
+        "\t @shareClick=\"\"",
+        "\t @longPress=\"\"",
+        "\t @appShareBack=\"\"",
+      "/>"
+    ],
+    "description": "Xest <xes-sharePoster>"
+  },
+  "Business: xes-demo": {
+    "prefix": "xesdemo",
+    "body": [
+     "<xes-demo",
+        "\t @leftBtn=\"\"",
+      "/>"
+    ],
+    "description": "Xest <xes-demo>"
+  },
+  "Business: xes-loginPopup": {
+    "prefix": "xesloginPopup",
+    "body": [
+     "<xes-loginPopup",
+        "\t :regData=\"\"",
+        "\t :loginData=\"\"",
+        "\t @loginSucess=\"\"",
+        "\t @regSucess=\"\"",
+        "\t @sendVCode=\"\"",
+        "\t @close=\"\"",
+      "/>"
+    ],
+    "description": "Xest <xes-loginPopup>"
+  },
+  "Business: xes-checkLogin": {
+    "prefix": "xescheckLogin",
+    "body": [
+     "<xes-checkLogin",
+        "\t @leftBtn=\"\"",
+      "/>"
+    ],
+    "description": "Xest <xes-checkLogin>"
+  },
+  "Business: xes-button": {
+    "prefix": "xesbutton",
+    "body": [
+     "<xes-xesbutton",
+        "\t type=\"default\"",
+      "/>"
+    ],
+    "description": "Xest <xes-xesbutton>"
+  }
+
+}

@@ -1,0 +1,44 @@
+{
+  "Notice: Dialog Alert": {
+    "prefix": "xesalert",
+    "body": [
+      "Dialog.alert({",
+      "\t title: '标题'",
+      "\t message: '弹出的内容'",
+      "\t}).then(() => {",
+      "\t",
+      "\t})"
+    ],
+    "description": "Xest alert"
+  },
+  "Notice: Dialog Confirm": {
+    "prefix": "xesconfirm",
+    "body": [
+      "Dialog.confirm({",
+      "\t title: '标题'",
+      "\t message: '弹出的内容'",
+      "\t}).then(() => {",
+      "\t",
+      "\t}).catch(() => {",
+      "\t",
+      "\t})"
+    ],
+    "description": "Xest confirm"
+  },
+  "Notice: Notify": {
+    "prefix": "xesnotify",
+    "body": [
+      "Notify({",
+      "\t title: '标题'",
+      "\t duration: 2000",
+      "\t background: '#1989fa'",
+      "\t})"
+    ],
+    "description": "Xest Notify"
+  },
+  "Notice: Toast": {
+    "prefix": "xestoast",
+    "body": ["Toast('提示内容')"],
+    "description": "Xest Toast"
+  }
+}

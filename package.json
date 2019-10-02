@@ -1,0 +1,68 @@
+{
+	"name": "xue-plugin",
+	"displayName": "Xes Snippets",
+	"version": "0.1.2",
+	"publisher": "fishku",
+	"author": {
+		"name": "fishku"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"description": "xue Snippets for VS Code",
+	"icon": "images/logo.png",
+	"keywords": [
+		"xue",
+		"mobile",
+		"vue",
+		"snippets"
+	],
+	"galleryBanner": {
+		"color": "#549BFF",
+		"theme": "dark"
+	},
+	"activationEvents": [
+		"onLanguage:vuejs"
+	],
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"main": "./out/extension",
+	"devDependencies": {
+		"vscode": "0.10.x"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/shikexin0116/xes-plugIn/issues",
+		"email": "shikexin0116@163.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shikexin0116/xes-plugIn"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/element-ui.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/element-ui.json"
+			},
+			{
+				"language": "vue",
+				"path": "./snippets/xes.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/xes.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2b763592-a3c3-4213-958c-b34ecf005832",
+		"publisherId": "98b5d5d3-8967-4332-b0d1-cf5d7790f280",
+		"publisherDisplayName": "鸿泷"
+	}
+}
