@@ -1,11 +1,8 @@
 {
 	"name": "xue-plugin",
 	"displayName": "Xes Snippets",
-	"version": "0.1.2",
-	"publisher": "fishku",
-	"author": {
-		"name": "fishku"
-	},
+	"version": "0.0.1",
+	"publisher": "xue-plugIn",
 	"categories": [
 		"Snippets"
 	],
