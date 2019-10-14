@@ -1,7 +1,7 @@
 {
 	"name": "xue-plugin",
 	"displayName": "Xes Snippets",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "xes-skx",
 	"categories": [
 		"Snippets"
