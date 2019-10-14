@@ -2,7 +2,7 @@
 	"name": "xue-plugin",
 	"displayName": "Xes Snippets",
 	"version": "0.0.2",
-	"publisher": "xes-skx",
+	"publisher": "xue-plugin",
 	"categories": [
 		"Snippets"
 	],
