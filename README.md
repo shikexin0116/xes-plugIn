@@ -2,11 +2,11 @@
  * @Author: shiklexin
  * @Date: 2019-09-29 14:51:01
  * @LastEditors: OBKoro1
- * @LastEditTime: 2019-10-14 15:41:38
+ * @LastEditTime: 2019-10-14 15:42:45
  * @Description: 
  -->
 ### Git: 
-[Vant Snippets](https://github.com/shikexin0116/xes-plugIn) 
+[Xes Snippets](https://github.com/shikexin0116/xes-plugIn) 
 
 ### Thanks: 
 [小茗同学](http://blog.haoji.me/vscode-plugin-overview.html)
