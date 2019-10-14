@@ -2,7 +2,7 @@
 	"name": "xue-plugin",
 	"displayName": "Xes Snippets",
 	"version": "0.0.1",
-	"publisher": "xue-plugIn",
+	"publisher": "xes-skx",
 	"categories": [
 		"Snippets"
 	],
@@ -56,10 +56,5 @@
 				"path": "./snippets/xes.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "2b763592-a3c3-4213-958c-b34ecf005832",
-		"publisherId": "98b5d5d3-8967-4332-b0d1-cf5d7790f280",
-		"publisherDisplayName": "鸿泷"
 	}
 }
