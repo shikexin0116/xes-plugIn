@@ -2,7 +2,7 @@
  * @Author: shiklexin
  * @Date: 2019-09-29 14:51:01
  * @LastEditors: OBKoro1
- * @LastEditTime: 2019-10-14 15:38:36
+ * @LastEditTime: 2019-10-14 15:41:38
  * @Description: 
  -->
 ### Git: 
@@ -22,6 +22,5 @@
 |  4.   |  `xescheckLogin` | `<xes-checkLogin>`      |
 |  5.   |   `xesbutton`    | `<xes-xesbutton>`       |
 
-
 ### API地址：
-[XES](http://hr.xesv5.com/xes-ui/#/xesLogin)
+[点击这里]](http://hr.xesv5.com/xes-ui/#/xesLogin)
